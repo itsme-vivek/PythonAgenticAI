@@ -19,14 +19,15 @@ Dictionaries
 Conditional Statements  
 Loops 
 
-Module 2: Implement Structured Python Code 
-This module covers topics on how to develop structured codebase in Python. These fundamentals are essential for building reliable and maintainable applications and form the basis for modular tools, workflow execution, and robust system behavior. 
+Module 2: Structured Python Code
 
-Topics 
-Functions 
-Import and Modules 
-Exception Handling 
-Object Oriented Programming 
+This is where Python starts becoming useful for real projects.
+We'll cover:
+Functions
+Modules
+Imports
+Exception Handling
+OOP
 
 Module 3: Working with Files & Data 
 This module covers core Python fundamentals for handling external data sources such as files and datasets. These skills are essential for data ingestion, processing, and integration across applications and form the foundation for later use in RAG-based systems and Agentic AI workflows. 

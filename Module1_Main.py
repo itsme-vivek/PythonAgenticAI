@@ -1,3 +1,10 @@
+# Will come later on this part
+# specific method import
+from math_utils import math_add,math_subtract
+# import math_utils # import whole class
+# import math_utils as mu #import as alias
+
+
 # This is a simple Python script to print a greeting message
 print("Hello Vivek")
 
@@ -260,4 +267,14 @@ if not is_active:
     
 print('------------------NEW--------------------')
 result = "Adult" if age >= 18 else "Minor"
+print(result)
+
+print('------------------MATH ADD IMPORT NEW--------------------')
+result = math_add(10, 20)
+# result = math_utils.math_add(30, 40); #if you import whole class
+print(result)
+
+print('------------------MATH SUBTRACT IMPORT NEW--------------------')
+result = math_subtract(20, 10) 
+# result = math_utils.math_subtract(40, 30) #if you import whole class
 print(result)
